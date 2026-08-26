@@ -2,9 +2,7 @@ name: Update & Verify Sports Playlist
 
 on:
   schedule:
-    # প্রতি ৪ ঘণ্টা পর পর স্বয়ংক্রিয়ভাবে চলবে
     - cron: '0 */4 * * *'
-  # ম্যানুয়ালি Actions ট্যাব থেকে রান করার জন্য
   workflow_dispatch:
 
 permissions:
@@ -28,6 +26,9 @@ jobs:
           pip install requests
 
       - name: Run Stream Checker Script
+        env:
+          # এখানে সিক্রেট ভেরিয়েবলটি পাস করা হচ্ছে
+          PLAYLIST_URL: ${{ secrets.SOURCE_PLAYLIST_URL }}
         run: |
           python checker.py
 
