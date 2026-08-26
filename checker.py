@@ -1,7 +1,7 @@
 import requests
 from concurrent.futures import ThreadPoolExecutor
 
-PLAYLIST_URL = "https://ireentvsportspremium.pages.dev/playlist.m3u"
+PLAYLIST_URL = "https://raw.githubusercontent.com/ireentv/ireentvsportspremium/refs/heads/main/playlist.m3u"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 TIMEOUT = 7  # প্রতিটি লিঙ্কের জন্য টাইমআউট (সেকেন্ড)
 MAX_WORKERS = 15  # একসাথে কতগুলো লিঙ্ক চেক হবে
