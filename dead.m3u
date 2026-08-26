@@ -1,10 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ACC_Network" tvg-name="ACC Network" tvg-logo="https://ireentvsportspremium.pages.dev/logos/ACC_Network.png" group-title="Live TV - US",ACC Network
-https://ireentvsportspremium.pages.dev/ACC_Network.m3u8
-#EXTINF:-1 tvg-id="Altitude" tvg-name="Altitude" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Altitude.png" group-title="Live TV - US",Altitude
-https://ireentvsportspremium.pages.dev/Altitude.m3u8
-#EXTINF:-1 tvg-id="Astro_Cricket" tvg-name="Astro Cricket" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Astro_Cricket.png" group-title="Live TV - US",Astro Cricket
-https://ireentvsportspremium.pages.dev/Astro_Cricket.m3u8
+# ======================================================
+# Playlist Name: Dead Sports Channels
+# Telegram: https://t.me/ireentv
+# Website: https://anamul.pages.dev
+# Developer: MD ANAMUL HOQUE
+# Version: 1.0
+# Channels Amount: 76
+# Last Update: 27-08-2026 03:13:02 AM (BST)
+# ======================================================
+
+#EXTINF:-1 tvg-id="BBC_Two" tvg-name="BBC Two" tvg-logo="https://ireentvsportspremium.pages.dev/logos/BBC_Two.png" group-title="Live TV - GB",BBC Two
+https://ireentvsportspremium.pages.dev/BBC_Two.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="https://ireentvsportspremium.pages.dev/logos/CBS.png" group-title="Live TV - US",CBS
 https://ireentvsportspremium.pages.dev/CBS.m3u8
 #EXTINF:-1 tvg-id="Canal_Live_11" tvg-name="Canal Live 11" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Canal_Live_11.png" group-title="Live TV - FR",Canal Live 11
@@ -39,6 +45,8 @@ https://ireentvsportspremium.pages.dev/Cosmote_Sport_8.m3u8
 https://ireentvsportspremium.pages.dev/DAZN_1.m3u8
 #EXTINF:-1 tvg-id="DAZN_1" tvg-name="DAZN 1" tvg-logo="https://ireentvsportspremium.pages.dev/logos/DAZN_1.png" group-title="Live TV - GB",DAZN 1
 https://ireentvsportspremium.pages.dev/DAZN_1.m3u8
+#EXTINF:-1 tvg-id="DAZN_LaLiga" tvg-name="DAZN LaLiga" tvg-logo="https://ireentvsportspremium.pages.dev/logos/DAZN_LaLiga.png" group-title="Live TV - ES",DAZN LaLiga
+https://ireentvsportspremium.pages.dev/DAZN_LaLiga.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://ireentvsportspremium.pages.dev/logos/ESPN.png" group-title="Live TV - NL",ESPN
 https://ireentvsportspremium.pages.dev/ESPN.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://ireentvsportspremium.pages.dev/logos/ESPN.png" group-title="Live TV - BR",ESPN
@@ -133,7 +141,7 @@ https://ireentvsportspremium.pages.dev/Sky_Sport_Max.m3u8
 https://ireentvsportspremium.pages.dev/Sky_Sport_Mix.m3u8
 #EXTINF:-1 tvg-id="Sky_Sports_Arena" tvg-name="Sky Sports Arena" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sky_Sports_Arena.png" group-title="Live TV - GB",Sky Sports Arena
 https://ireentvsportspremium.pages.dev/Sky_Sports_Arena.m3u8
-#EXTINF:-1 tvg-id="Sky_Sports_Main_Event" tvg-name="Sky Sports Main Event" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sky_Sports_Main_Event.png" group-title="Live TV - GB",Sky Sports Main Event
+#EXTINF:-1 tvg-id="Sky_Sports_Main_Event" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png" group-title="Live TV - GB",Sky Sports Main Event
 https://ireentvsportspremium.pages.dev/Sky_Sports_Main_Event.m3u8
 #EXTINF:-1 tvg-id="Sport_5_Live" tvg-name="Sport 5 Live" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sport_5_Live.png" group-title="Live TV - IL",Sport 5 Live
 https://ireentvsportspremium.pages.dev/Sport_5_Live.m3u8
@@ -147,8 +155,6 @@ https://ireentvsportspremium.pages.dev/Sport_TV_4.m3u8
 https://ireentvsportspremium.pages.dev/Sport_TV_5.m3u8
 #EXTINF:-1 tvg-id="Sport_TV_6" tvg-name="Sport TV 6" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sport_TV_6.png" group-title="Live TV - PT",Sport TV 6
 https://ireentvsportspremium.pages.dev/Sport_TV_6.m3u8
-#EXTINF:-1 tvg-id="SportsNet_New_York" tvg-name="SportsNet New York" tvg-logo="https://ireentvsportspremium.pages.dev/logos/SportsNet_New_York.png" group-title="Live TV - US",SportsNet New York
-https://ireentvsportspremium.pages.dev/SportsNet_New_York.m3u8
 #EXTINF:-1 tvg-id="Sportsnet_One" tvg-name="Sportsnet One" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sportsnet_One.png" group-title="Live TV - CA",Sportsnet One
 https://ireentvsportspremium.pages.dev/Sportsnet_One.m3u8
 #EXTINF:-1 tvg-id="Sportsnet_Ontario" tvg-name="Sportsnet Ontario" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sportsnet_Ontario.png" group-title="Live TV - CA",Sportsnet Ontario
