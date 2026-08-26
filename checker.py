@@ -1,10 +1,31 @@
+import os
+import sys
 import requests
 from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime, timezone, timedelta
 
-PLAYLIST_URL = "https://raw.githubusercontent.com/ireentv/ireentvsportspremium/refs/heads/main/playlist.m3u"
+# গিটহাবের Secret থেকে লিঙ্ক রিড করবে (কোডে কোনো লিঙ্ক থাকবে না)
+PLAYLIST_URL = os.environ.get("PLAYLIST_URL")
+
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-TIMEOUT = 7  # প্রতিটি লিঙ্কের জন্য টাইমআউট (সেকেন্ড)
-MAX_WORKERS = 15  # একসাথে কতগুলো লিঙ্ক চেক হবে
+TIMEOUT = 7
+MAX_WORKERS = 15
+
+def get_header(playlist_name, count):
+    bd_time = datetime.now(timezone(timedelta(hours=6))).strftime("%d-%m-%Y %I:%M:%S %p (BST)")
+    header = (
+        f"#EXTM3U\n"
+        f"# ======================================================\n"
+        f"# Playlist Name: {playlist_name}\n"
+        f"# Telegram: https://t.me/ireentv\n"
+        f"# Website: https://anamul.pages.dev\n"
+        f"# Developer: MD ANAMUL HOQUE\n"
+        f"# Version: 1.0\n"
+        f"# Channels Amount: {count}\n"
+        f"# Last Update: {bd_time}\n"
+        f"# ======================================================\n\n"
+    )
+    return header
 
 def parse_m3u(content):
     channels = []
@@ -28,7 +49,6 @@ def is_stream_alive(channel):
     url = channel["url"]
     headers = {"User-Agent": USER_AGENT}
     try:
-        # প্রথমে দ্রুত চেক করার জন্য HEAD রিকোয়েস্ট
         response = requests.head(url, headers=headers, timeout=TIMEOUT, allow_redirects=True)
         if response.status_code == 200:
             return channel, True
@@ -36,7 +56,6 @@ def is_stream_alive(channel):
         pass
 
     try:
-        # HEAD ফেইল করলে GET দিয়ে ডাটা স্ট্রিম চেক
         response = requests.get(url, headers=headers, timeout=TIMEOUT, stream=True, allow_redirects=True)
         if response.status_code == 200:
             return channel, True
@@ -46,7 +65,11 @@ def is_stream_alive(channel):
     return channel, False
 
 def main():
-    print(f"Fetching playlist from {PLAYLIST_URL}...")
+    if not PLAYLIST_URL:
+        print("Error: PLAYLIST_URL environment variable is not set!")
+        sys.exit(1)
+
+    print("Fetching playlist securely...")
     headers = {"User-Agent": USER_AGENT}
     try:
         resp = requests.get(PLAYLIST_URL, headers=headers, timeout=15)
@@ -73,19 +96,19 @@ def main():
     print(f"Live Channels: {len(live_channels)}")
     print(f"Dead Channels: {len(dead_channels)}")
 
-    # Premium Sports প্লেলিস্ট সেভ করা
+    # Premium Sports ফাইল তৈরি
     with open("premium_sports.m3u", "w", encoding="utf-8") as f:
-        f.write('#EXTM3U x-tvg-url=""\n')
+        f.write(get_header("Premium Sports", len(live_channels)))
         for ch in live_channels:
             f.write(f"{ch['info']}\n{ch['url']}\n")
 
-    # Dead প্লেলিস্ট সেভ করা
+    # Dead Channels ফাইল তৈরি
     with open("dead.m3u", "w", encoding="utf-8") as f:
-        f.write('#EXTM3U\n')
+        f.write(get_header("Dead Sports Channels", len(dead_channels)))
         for ch in dead_channels:
             f.write(f"{ch['info']}\n{ch['url']}\n")
 
-    print("Playlists generated successfully!")
+    print("Playlists successfully updated!")
 
 if __name__ == "__main__":
     main()
