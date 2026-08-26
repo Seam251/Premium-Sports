@@ -1,0 +1,40 @@
+name: Update & Verify Sports Playlist
+
+on:
+  schedule:
+    # প্রতি ৪ ঘণ্টা পর পর স্বয়ংক্রিয়ভাবে চলবে
+    - cron: '0 */4 * * *'
+  # ম্যানুয়ালি Actions ট্যাব থেকে রান করার জন্য
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Run Stream Checker Script
+        run: |
+          python checker.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add premium_sports.m3u dead.m3u
+          git diff --staged --quiet || git commit -m "Auto-update: Premium Sports & Dead Playlists [$(date -u +'%Y-%m-%d %H:%M:%S UTC')]"
+          git push
