@@ -9,6 +9,8 @@ https://ireentvsportspremium.pages.dev/BBC_Four.m3u8
 https://ireentvsportspremium.pages.dev/BBC_One.m3u8
 #EXTINF:-1 tvg-id="BBC_Three" tvg-name="BBC Three" tvg-logo="https://ireentvsportspremium.pages.dev/logos/BBC_Three.png" group-title="Live TV - GB",BBC Three
 https://ireentvsportspremium.pages.dev/BBC_Three.m3u8
+#EXTINF:-1 tvg-id="BBC_Two" tvg-name="BBC Two" tvg-logo="https://ireentvsportspremium.pages.dev/logos/BBC_Two.png" group-title="Live TV - GB",BBC Two
+https://ireentvsportspremium.pages.dev/BBC_Two.m3u8
 #EXTINF:-1 tvg-id="BET" tvg-name="BET" tvg-logo="https://ireentvsportspremium.pages.dev/logos/BET.png" group-title="Live TV - US",BET
 https://ireentvsportspremium.pages.dev/BET.m3u8
 #EXTINF:-1 tvg-id="Benfica_TV" tvg-name="Benfica TV" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Benfica_TV.png" group-title="Live TV - PT",Benfica TV
@@ -61,8 +63,6 @@ https://ireentvsportspremium.pages.dev/ESPN_Deportes.m3u8
 https://ireentvsportspremium.pages.dev/ESPN_News.m3u8
 #EXTINF:-1 tvg-id="ESPN_Premium" tvg-name="ESPN Premium" tvg-logo="https://ireentvsportspremium.pages.dev/logos/ESPN_Premium.png" group-title="Live TV - AR",ESPN Premium
 https://ireentvsportspremium.pages.dev/ESPN_Premium.m3u8
-#EXTINF:-1 tvg-id="ESPN_U" tvg-name="ESPN U" tvg-logo="https://ireentvsportspremium.pages.dev/logos/ESPN_U.png" group-title="Live TV - US",ESPN U
-https://ireentvsportspremium.pages.dev/ESPN_U.m3u8
 #EXTINF:-1 tvg-id="ESPN_USA" tvg-name="ESPN+ USA" tvg-logo="https://ireentvsportspremium.pages.dev/logos/ESPN_USA.png" group-title="Live TV - US",ESPN+ USA
 https://ireentvsportspremium.pages.dev/ESPN_USA.m3u8
 #EXTINF:-1 tvg-id="Euro_Sport_1" tvg-name="Euro Sport 1" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Euro_Sport_1.png" group-title="Live TV - GB",Euro Sport 1
@@ -97,7 +97,7 @@ https://ireentvsportspremium.pages.dev/ITV_2.m3u8
 https://ireentvsportspremium.pages.dev/ITV_3.m3u8
 #EXTINF:-1 tvg-id="ITV_4" tvg-name="ITV 4" tvg-logo="https://ireentvsportspremium.pages.dev/logos/ITV_4.png" group-title="Live TV - GB",ITV 4
 https://ireentvsportspremium.pages.dev/ITV_4.m3u8
-#EXTINF:-1 tvg-id="LaLiga_TV" tvg-name="LaLiga TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-tv-es.png" group-title="Live TV - GB",LaLiga TV
+#EXTINF:-1 tvg-id="LaLiga_TV" tvg-name="LaLiga TV" tvg-logo="https://ireentvsportspremium.pages.dev/logos/LaLiga_TV.png" group-title="Live TV - GB",LaLiga TV
 https://ireentvsportspremium.pages.dev/LaLiga_TV.m3u8
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Lifetime.png" group-title="Live TV - US",Lifetime
 https://ireentvsportspremium.pages.dev/Lifetime.m3u8
@@ -117,14 +117,10 @@ https://ireentvsportspremium.pages.dev/NHL_Network.m3u8
 https://ireentvsportspremium.pages.dev/Nickelodeon_TV.m3u8
 #EXTINF:-1 tvg-id="Nova_Sport_3" tvg-name="Nova Sport 3" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Nova_Sport_3.png" group-title="Live TV - CZ",Nova Sport 3
 https://ireentvsportspremium.pages.dev/Nova_Sport_3.m3u8
-#EXTINF:-1 tvg-id="Prima_Sport_1" tvg-name="Prima Sport 1" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Prima_Sport_1.png" group-title="Live TV - RO",Prima Sport 1
-https://ireentvsportspremium.pages.dev/Prima_Sport_1.m3u8
 #EXTINF:-1 tvg-id="RTP_1" tvg-name="RTP 1" tvg-logo="https://ireentvsportspremium.pages.dev/logos/RTP_1.png" group-title="Live TV - PT",RTP 1
 https://ireentvsportspremium.pages.dev/RTP_1.m3u8
 #EXTINF:-1 tvg-id="Real_Madrid_TV" tvg-name="Real Madrid TV" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Real_Madrid_TV.png" group-title="Live TV - ES",Real Madrid TV
 https://ireentvsportspremium.pages.dev/Real_Madrid_TV.m3u8
-#EXTINF:-1 tvg-id="SEC_Network" tvg-name="SEC Network" tvg-logo="https://ireentvsportspremium.pages.dev/logos/SEC_Network.png" group-title="Live TV - US",SEC Network
-https://ireentvsportspremium.pages.dev/SEC_Network.m3u8
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="https://ireentvsportspremium.pages.dev/logos/SIC.png" group-title="Live TV - PT",SIC
 https://ireentvsportspremium.pages.dev/SIC.m3u8
 #EXTINF:-1 tvg-id="Sky_Sport_1" tvg-name="Sky Sport 1" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sky_Sport_1.png" group-title="Live TV - DE",Sky Sport 1
@@ -139,17 +135,17 @@ https://ireentvsportspremium.pages.dev/Sky_Sport_3.m3u8
 https://ireentvsportspremium.pages.dev/Sky_Sport_Tennis.m3u8
 #EXTINF:-1 tvg-id="Sky_Sports_Action" tvg-name="Sky Sports Action" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sky_Sports_Action.png" group-title="Live TV - GB",Sky Sports Action
 https://ireentvsportspremium.pages.dev/Sky_Sports_Action.m3u8
-#EXTINF:-1 tvg-id="Sky_Sports_Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png" group-title="Live TV - GB",Sky Sports Cricket
+#EXTINF:-1 tvg-id="Sky_Sports_Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sky_Sports_Cricket.png" group-title="Live TV - GB",Sky Sports Cricket
 https://ireentvsportspremium.pages.dev/Sky_Sports_Cricket.m3u8
-#EXTINF:-1 tvg-id="Sky_Sports_F1" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="Live TV - GB",Sky Sports F1
+#EXTINF:-1 tvg-id="Sky_Sports_F1" tvg-name="Sky Sports F1" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sky_Sports_F1.png" group-title="Live TV - GB",Sky Sports F1
 https://ireentvsportspremium.pages.dev/Sky_Sports_F1.m3u8
-#EXTINF:-1 tvg-id="Sky_Sports_Football" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="Live TV - GB",Sky Sports Football
+#EXTINF:-1 tvg-id="Sky_Sports_Football" tvg-name="Sky Sports Football" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sky_Sports_Football.png" group-title="Live TV - GB",Sky Sports Football
 https://ireentvsportspremium.pages.dev/Sky_Sports_Football.m3u8
 #EXTINF:-1 tvg-id="Sky_Sports_Golf" tvg-name="Sky Sports Golf" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sky_Sports_Golf.png" group-title="Live TV - GB",Sky Sports Golf
 https://ireentvsportspremium.pages.dev/Sky_Sports_Golf.m3u8
 #EXTINF:-1 tvg-id="Sky_Sports_Mix" tvg-name="Sky Sports Mix" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sky_Sports_Mix.png" group-title="Live TV - GB",Sky Sports Mix
 https://ireentvsportspremium.pages.dev/Sky_Sports_Mix.m3u8
-#EXTINF:-1 tvg-id="Sky_Sports_Premier_League" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-uk.png" group-title="Live TV - GB",Sky Sports Premier League
+#EXTINF:-1 tvg-id="Sky_Sports_Premier_League" tvg-name="Sky Sports Premier League" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sky_Sports_Premier_League.png" group-title="Live TV - GB",Sky Sports Premier League
 https://ireentvsportspremium.pages.dev/Sky_Sports_Premier_League.m3u8
 #EXTINF:-1 tvg-id="Sky_Sports_Racing" tvg-name="Sky Sports Racing" tvg-logo="https://ireentvsportspremium.pages.dev/logos/Sky_Sports_Racing.png" group-title="Live TV - GB",Sky Sports Racing
 https://ireentvsportspremium.pages.dev/Sky_Sports_Racing.m3u8
