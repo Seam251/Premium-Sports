@@ -5,29 +5,15 @@
 # Website: https://anamul.pages.dev
 # Developer: MD ANAMUL HOQUE
 # Version: 1.0
-# Channels Amount: 11
-# Last Update: 03-09-2026 01:17:05 PM (BST)
+# Channels Amount: 4
+# Last Update: 03-09-2026 06:11:04 PM (BST)
 # ======================================================
 
-#EXTINF:-1 tvg-id="SkySportsGolf.GB" tvg-name="Sky Sports Golf" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-golf.webp" group-title="Live TV - GB",Sky Sports Golf
-https://ireentvsportspremium.pages.dev/Sky_Sports_Golf.m3u8
-#EXTINF:-1 tvg-id="SportsnetEast.CA" tvg-name="Sportsnet East" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-east.webp" group-title="Live TV - CA",Sportsnet East
-https://ireentvsportspremium.pages.dev/Sportsnet_East.m3u8
-#EXTINF:-1 tvg-id="SportsnetOne.CA" tvg-name="Sportsnet One" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-one.webp" group-title="Live TV - CA",Sportsnet One
-https://ireentvsportspremium.pages.dev/Sportsnet_One.m3u8
-#EXTINF:-1 tvg-id="TBS.US" tvg-name="TBS" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/tbs.webp" group-title="Live TV - US",TBS
-https://ireentvsportspremium.pages.dev/TBS.m3u8
-#EXTINF:-1 tvg-id="TNTSports3.GB" tvg-name="TNT Sports 3" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-3.webp" group-title="Live TV - GB",TNT Sports 3
-https://ireentvsportspremium.pages.dev/TNT_Sports_3.m3u8
-#EXTINF:-1 tvg-id="TNTSports4.GB" tvg-name="TNT Sports 4" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-4.webp" group-title="Live TV - GB",TNT Sports 4
-https://ireentvsportspremium.pages.dev/TNT_Sports_4.m3u8
+#EXTINF:-1 tvg-id="FoxSports501Cricket.AU" tvg-name="Fox Sports 501 Cricket" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-501-cricket.webp" group-title="Live TV - AU",Fox Sports 501 Cricket
+https://ireentvsportspremium.pages.dev/Fox_Sports_501_Cricket.m3u8
+#EXTINF:-1 tvg-id="FoxSports507.AU" tvg-name="Fox Sports 507" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-507.webp" group-title="Live TV - AU",Fox Sports 507
+https://ireentvsportspremium.pages.dev/Fox_Sports_507.m3u8
+#EXTINF:-1 tvg-id="StanSport12.AU" tvg-name="Stan Sport 12" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-12.webp" group-title="Live TV - AU",Stan Sport 12
+https://ireentvsportspremium.pages.dev/Stan_Sport_12.m3u8
 #EXTINF:-1 tvg-id="TNTSports5.GB" tvg-name="TNT Sports 5" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-5.webp" group-title="Live TV - GB",TNT Sports 5
 https://ireentvsportspremium.pages.dev/TNT_Sports_5.m3u8
-#EXTINF:-1 tvg-id="TSN5.CA" tvg-name="TSN 5" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-5.webp" group-title="Live TV - CA",TSN 5
-https://ireentvsportspremium.pages.dev/TSN_5.m3u8
-#EXTINF:-1 tvg-id="TVASports.CA" tvg-name="TVA Sports" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/tva-sports.webp" group-title="Live TV - CA",TVA Sports
-https://ireentvsportspremium.pages.dev/TVA_Sports.m3u8
-#EXTINF:-1 tvg-id="TVI.PT" tvg-name="TVI" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/tvi.webp" group-title="Live TV - PT",TVI
-https://ireentvsportspremium.pages.dev/TVI.m3u8
-#EXTINF:-1 tvg-id="TampaBayRays.US" tvg-name="Tampa Bay Rays" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/tampa-bay-rays.webp" group-title="Live TV - US",Tampa Bay Rays
-https://ireentvsportspremium.pages.dev/Tampa_Bay_Rays.m3u8
