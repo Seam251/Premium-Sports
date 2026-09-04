@@ -5,18 +5,22 @@
 # Website: https://anamul.pages.dev
 # Developer: MD ANAMUL HOQUE
 # Version: 1.0
-# Channels Amount: 117
-# Last Update: 05-09-2026 03:57:29 AM (BST)
+# Channels Amount: 116
+# Last Update: 05-09-2026 05:41:45 AM (BST)
 # ======================================================
 
 #EXTINF:-1 tvg-id="ABC.US" tvg-name="ABC" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/abc.webp" group-title="Live TV - US",ABC
 https://ireentvsportspremium.pages.dev/ABC.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.US" tvg-name="ACC Network" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/acc-network.webp" group-title="Live TV - US",ACC Network
 https://ireentvsportspremium.pages.dev/ACC_Network.m3u8
-#EXTINF:-1 tvg-id="ArizonaDiamondbacks.US" tvg-name="Arizona Diamondbacks" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/arizona-diamondbacks.webp" group-title="Live TV - US",Arizona Diamondbacks
-https://ireentvsportspremium.pages.dev/Arizona_Diamondbacks.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports1.AE" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/ae/abu-dhabi-sports-1.webp" group-title="Live TV - AE",Abu Dhabi Sports 1
+https://ireentvsportspremium.pages.dev/Abu_Dhabi_Sports_1.m3u8
 #EXTINF:-1 tvg-id="AstroCricket.US" tvg-name="Astro Cricket" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/astro-cricket.webp" group-title="Live TV - US",Astro Cricket
 https://ireentvsportspremium.pages.dev/Astro_Cricket.m3u8
+#EXTINF:-1 tvg-id="AtlantaBraves.US" tvg-name="Atlanta Braves" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/atlanta-braves.webp" group-title="Live TV - US",Atlanta Braves
+https://ireentvsportspremium.pages.dev/Atlanta_Braves.m3u8
+#EXTINF:-1 tvg-id="BBC.US" tvg-name="BBC" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/bbc.webp" group-title="Live TV - US",BBC
+https://ireentvsportspremium.pages.dev/BBC.m3u8
 #EXTINF:-1 tvg-id="BBCFour.GB" tvg-name="BBC Four" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-four.webp" group-title="Live TV - GB",BBC Four
 https://ireentvsportspremium.pages.dev/BBC_Four.m3u8
 #EXTINF:-1 tvg-id="BBCOne.GB" tvg-name="BBC One" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-one.webp" group-title="Live TV - GB",BBC One
@@ -27,8 +31,8 @@ https://ireentvsportspremium.pages.dev/BBC_Three.m3u8
 https://ireentvsportspremium.pages.dev/BBC_Two.m3u8
 #EXTINF:-1 tvg-id="BET.US" tvg-name="BET" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/bet.webp" group-title="Live TV - US",BET
 https://ireentvsportspremium.pages.dev/BET.m3u8
-#EXTINF:-1 tvg-id="BenficaTV.PT" tvg-name="Benfica TV" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/benfica-tv.webp" group-title="Live TV - PT",Benfica TV
-https://ireentvsportspremium.pages.dev/Benfica_TV.m3u8
+#EXTINF:-1 tvg-id="BaltimoreOrioles.US" tvg-name="Baltimore Orioles" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/baltimore-orioles.webp" group-title="Live TV - US",Baltimore Orioles
+https://ireentvsportspremium.pages.dev/Baltimore_Orioles.m3u8
 #EXTINF:-1 tvg-id="BostonRedSox.US" tvg-name="Boston Red Sox" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/boston-red-sox.webp" group-title="Live TV - US",Boston Red Sox
 https://ireentvsportspremium.pages.dev/Boston_Red_Sox.m3u8
 #EXTINF:-1 tvg-id="CBS.US" tvg-name="CBS" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs.webp" group-title="Live TV - US",CBS
@@ -51,20 +55,20 @@ https://ireentvsportspremium.pages.dev/Channel_5.m3u8
 https://ireentvsportspremium.pages.dev/Chicago_Cubs.m3u8
 #EXTINF:-1 tvg-id="ChicagoSportsNetwork.US" tvg-name="Chicago Sports Network" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/chicago-sports-network.webp" group-title="Live TV - US",Chicago Sports Network
 https://ireentvsportspremium.pages.dev/Chicago_Sports_Network.m3u8
-#EXTINF:-1 tvg-id="CincinnatiReds.US" tvg-name="Cincinnati Reds" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cincinnati-reds.webp" group-title="Live TV - US",Cincinnati Reds
-https://ireentvsportspremium.pages.dev/Cincinnati_Reds.m3u8
-#EXTINF:-1 tvg-id="ClevelandGuardians.US" tvg-name="Cleveland Guardians" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cleveland-guardians.webp" group-title="Live TV - US",Cleveland Guardians
-https://ireentvsportspremium.pages.dev/Cleveland_Guardians.m3u8
+#EXTINF:-1 tvg-id="ChicagoWhiteSox.US" tvg-name="Chicago White Sox" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/chicago-white-sox.webp" group-title="Live TV - US",Chicago White Sox
+https://ireentvsportspremium.pages.dev/Chicago_White_Sox.m3u8
+#EXTINF:-1 tvg-id="Cinemax.US" tvg-name="Cinemax" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cinemax.webp" group-title="Live TV - US",Cinemax
+https://ireentvsportspremium.pages.dev/Cinemax.m3u8
+#EXTINF:-1 tvg-id="ColoradoRockies.US" tvg-name="Colorado Rockies" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/colorado-rockies.webp" group-title="Live TV - US",Colorado Rockies
+https://ireentvsportspremium.pages.dev/Colorado_Rockies.m3u8
 #EXTINF:-1 tvg-id="DAZN2.DE" tvg-name="DAZN 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-2.webp" group-title="Live TV - DE",DAZN 2
 https://ireentvsportspremium.pages.dev/DAZN_2.m3u8
 #EXTINF:-1 tvg-id="DAZN2.PT" tvg-name="DAZN 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/dazn-2.webp" group-title="Live TV - PT",DAZN 2
 https://ireentvsportspremium.pages.dev/DAZN_2.m3u8
 #EXTINF:-1 tvg-id="DAZNLaLiga.ES" tvg-name="DAZN LaLiga" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-laliga.webp" group-title="Live TV - ES",DAZN LaLiga
 https://ireentvsportspremium.pages.dev/DAZN_LaLiga.m3u8
-#EXTINF:-1 tvg-id="DR1.DK" tvg-name="DR1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/denmark/dr1.webp" group-title="Live TV - DK",DR1
-https://ireentvsportspremium.pages.dev/DR1.m3u8
-#EXTINF:-1 tvg-id="DetroitTigers.US" tvg-name="Detroit Tigers" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/detroit-tigers.webp" group-title="Live TV - US",Detroit Tigers
-https://ireentvsportspremium.pages.dev/Detroit_Tigers.m3u8
+#EXTINF:-1 tvg-id="DAZNLaLiga2.ES" tvg-name="DAZN LaLiga 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-laliga-2.webp" group-title="Live TV - ES",DAZN LaLiga 2
+https://ireentvsportspremium.pages.dev/DAZN_LaLiga_2.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.US" tvg-name="Discovery Channel" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/discovery-channel.webp" group-title="Live TV - US",Discovery Channel
 https://ireentvsportspremium.pages.dev/Discovery_Channel.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.US" tvg-name="Disney Channel" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/disney-channel.webp" group-title="Live TV - US",Disney Channel
@@ -87,28 +91,32 @@ https://ireentvsportspremium.pages.dev/ESPN_2.m3u8
 https://ireentvsportspremium.pages.dev/ESPN_3.m3u8
 #EXTINF:-1 tvg-id="ESPN3.MX" tvg-name="ESPN 3" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/mexico/espn-3.webp" group-title="Live TV - MX",ESPN 3
 https://ireentvsportspremium.pages.dev/ESPN_3.m3u8
+#EXTINF:-1 tvg-id="ESPN4.MX" tvg-name="ESPN 4" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/mexico/espn-4.webp" group-title="Live TV - MX",ESPN 4
+https://ireentvsportspremium.pages.dev/ESPN_4.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.US" tvg-name="ESPN Deportes" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-deportes.webp" group-title="Live TV - US",ESPN Deportes
 https://ireentvsportspremium.pages.dev/ESPN_Deportes.m3u8
 #EXTINF:-1 tvg-id="ESPNNews.US" tvg-name="ESPN News" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-news.webp" group-title="Live TV - US",ESPN News
 https://ireentvsportspremium.pages.dev/ESPN_News.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.AR" tvg-name="ESPN Premium" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/ar/espn-premium.webp" group-title="Live TV - AR",ESPN Premium
+https://ireentvsportspremium.pages.dev/ESPN_Premium.m3u8
+#EXTINF:-1 tvg-id="ESPNU.US" tvg-name="ESPN U" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-u.webp" group-title="Live TV - US",ESPN U
+https://ireentvsportspremium.pages.dev/ESPN_U.m3u8
 #EXTINF:-1 tvg-id="ESPN+USA.US" tvg-name="ESPN+ USA" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-usa.webp" group-title="Live TV - US",ESPN+ USA
 https://ireentvsportspremium.pages.dev/ESPN_USA.m3u8
 #EXTINF:-1 tvg-id="EuroSport1.GB" tvg-name="Euro Sport 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-1.webp" group-title="Live TV - GB",Euro Sport 1
 https://ireentvsportspremium.pages.dev/Euro_Sport_1.m3u8
 #EXTINF:-1 tvg-id="FOX.US" tvg-name="FOX" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox.webp" group-title="Live TV - US",FOX
 https://ireentvsportspremium.pages.dev/FOX.m3u8
-#EXTINF:-1 tvg-id="FOXDeportes.US" tvg-name="FOX Deportes" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-deportes.webp" group-title="Live TV - US",FOX Deportes
-https://ireentvsportspremium.pages.dev/FOX_Deportes.m3u8
 #EXTINF:-1 tvg-id="FOXNews.US" tvg-name="FOX News" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-news.webp" group-title="Live TV - US",FOX News
 https://ireentvsportspremium.pages.dev/FOX_News.m3u8
-#EXTINF:-1 tvg-id="FOXSoccerPlus.US" tvg-name="FOX Soccer Plus" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.webp" group-title="Live TV - US",FOX Soccer Plus
-https://ireentvsportspremium.pages.dev/FOX_Soccer_Plus.m3u8
 #EXTINF:-1 tvg-id="FOXSports1.US" tvg-name="FOX Sports 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1.webp" group-title="Live TV - US",FOX Sports 1
 https://ireentvsportspremium.pages.dev/FOX_Sports_1.m3u8
 #EXTINF:-1 tvg-id="FOXSports2.MX" tvg-name="FOX Sports 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/mexico/fox-sports-2.webp" group-title="Live TV - MX",FOX Sports 2
 https://ireentvsportspremium.pages.dev/FOX_Sports_2.m3u8
-#EXTINF:-1 tvg-id="FoxSportsNews.AU" tvg-name="Fox Sports News" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-news.webp" group-title="Live TV - AU",Fox Sports News
-https://ireentvsportspremium.pages.dev/Fox_Sports_News.m3u8
+#EXTINF:-1 tvg-id="FOXSports2.AR" tvg-name="FOX Sports 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/ar/fox-sports-2.webp" group-title="Live TV - AR",FOX Sports 2
+https://ireentvsportspremium.pages.dev/FOX_Sports_2.m3u8
+#EXTINF:-1 tvg-id="GOLFTV.US" tvg-name="GOLF TV" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.webp" group-title="Live TV - US",GOLF TV
+https://ireentvsportspremium.pages.dev/GOLF_TV.m3u8
 #EXTINF:-1 tvg-id="HBO.US" tvg-name="HBO" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/hbo.webp" group-title="Live TV - US",HBO
 https://ireentvsportspremium.pages.dev/HBO.m3u8
 #EXTINF:-1 tvg-id="Hallmark.US" tvg-name="Hallmark" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/hallmark.webp" group-title="Live TV - US",Hallmark
@@ -117,74 +125,74 @@ https://ireentvsportspremium.pages.dev/Hallmark.m3u8
 https://ireentvsportspremium.pages.dev/History.m3u8
 #EXTINF:-1 tvg-id="ITV1.GB" tvg-name="ITV 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-1.webp" group-title="Live TV - GB",ITV 1
 https://ireentvsportspremium.pages.dev/ITV_1.m3u8
-#EXTINF:-1 tvg-id="ITV2.GB" tvg-name="ITV 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-2.webp" group-title="Live TV - GB",ITV 2
-https://ireentvsportspremium.pages.dev/ITV_2.m3u8
-#EXTINF:-1 tvg-id="ITV3.GB" tvg-name="ITV 3" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-3.webp" group-title="Live TV - GB",ITV 3
-https://ireentvsportspremium.pages.dev/ITV_3.m3u8
 #EXTINF:-1 tvg-id="ITV4.GB" tvg-name="ITV 4" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-4.webp" group-title="Live TV - GB",ITV 4
 https://ireentvsportspremium.pages.dev/ITV_4.m3u8
-#EXTINF:-1 tvg-id="LaLigaTV.GB" tvg-name="LaLiga TV" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/laliga-tv.webp" group-title="Live TV - GB",LaLiga TV
-https://ireentvsportspremium.pages.dev/LaLiga_TV.m3u8
+#EXTINF:-1 tvg-id="KansasCityRoyals.US" tvg-name="Kansas City Royals" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/kansas-city-royals.webp" group-title="Live TV - US",Kansas City Royals
+https://ireentvsportspremium.pages.dev/Kansas_City_Royals.m3u8
 #EXTINF:-1 tvg-id="Lifetime.US" tvg-name="Lifetime" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/lifetime.webp" group-title="Live TV - US",Lifetime
 https://ireentvsportspremium.pages.dev/Lifetime.m3u8
+#EXTINF:-1 tvg-id="LosAngelesAngels.US" tvg-name="Los Angeles Angels" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/los-angeles-angels.webp" group-title="Live TV - US",Los Angeles Angels
+https://ireentvsportspremium.pages.dev/Los_Angeles_Angels.m3u8
+#EXTINF:-1 tvg-id="MASN.US" tvg-name="MASN" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/masn.webp" group-title="Live TV - US",MASN
+https://ireentvsportspremium.pages.dev/MASN.m3u8
 #EXTINF:-1 tvg-id="MAX.US" tvg-name="MAX" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/max.webp" group-title="Live TV - US",MAX
 https://ireentvsportspremium.pages.dev/MAX.m3u8
 #EXTINF:-1 tvg-id="MLBNetwork.US" tvg-name="MLB Network" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.webp" group-title="Live TV - US",MLB Network
 https://ireentvsportspremium.pages.dev/MLB_Network.m3u8
-#EXTINF:-1 tvg-id="MSG.US" tvg-name="MSG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/msg.webp" group-title="Live TV - US",MSG
-https://ireentvsportspremium.pages.dev/MSG.m3u8
 #EXTINF:-1 tvg-id="MarqueeSportsNetwork.US" tvg-name="Marquee Sports Network" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee-sports-network.webp" group-title="Live TV - US",Marquee Sports Network
 https://ireentvsportspremium.pages.dev/Marquee_Sports_Network.m3u8
-#EXTINF:-1 tvg-id="MaxSport3.BG" tvg-name="Max Sport 3" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-3.webp" group-title="Live TV - BG",Max Sport 3
-https://ireentvsportspremium.pages.dev/Max_Sport_3.m3u8
+#EXTINF:-1 tvg-id="MatchFootball1.RU" tvg-name="Match Football 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-football-1.webp" group-title="Live TV - RU",Match Football 1
+https://ireentvsportspremium.pages.dev/Match_Football_1.m3u8
+#EXTINF:-1 tvg-id="MiamiMarlins.US" tvg-name="Miami Marlins" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/miami-marlins.webp" group-title="Live TV - US",Miami Marlins
+https://ireentvsportspremium.pages.dev/Miami_Marlins.m3u8
 #EXTINF:-1 tvg-id="MilwaukeeBrewers.US" tvg-name="Milwaukee Brewers" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/milwaukee-brewers.webp" group-title="Live TV - US",Milwaukee Brewers
 https://ireentvsportspremium.pages.dev/Milwaukee_Brewers.m3u8
+#EXTINF:-1 tvg-id="MinnesotaTwins.US" tvg-name="Minnesota Twins" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/minnesota-twins.webp" group-title="Live TV - US",Minnesota Twins
+https://ireentvsportspremium.pages.dev/Minnesota_Twins.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes1.ES" tvg-name="Movistar Deportes 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-1.webp" group-title="Live TV - ES",Movistar Deportes 1
 https://ireentvsportspremium.pages.dev/Movistar_Deportes_1.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes4.ES" tvg-name="Movistar Deportes 4" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-4.webp" group-title="Live TV - ES",Movistar Deportes 4
-https://ireentvsportspremium.pages.dev/Movistar_Deportes_4.m3u8
 #EXTINF:-1 tvg-id="NBATV.US" tvg-name="NBA TV" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-tv.webp" group-title="Live TV - US",NBA TV
 https://ireentvsportspremium.pages.dev/NBA_TV.m3u8
 #EXTINF:-1 tvg-id="NBC.US" tvg-name="NBC" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc.webp" group-title="Live TV - US",NBC
 https://ireentvsportspremium.pages.dev/NBC.m3u8
+#EXTINF:-1 tvg-id="NBCUniverso.US" tvg-name="NBC Universo" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-universo.webp" group-title="Live TV - US",NBC Universo
+https://ireentvsportspremium.pages.dev/NBC_Universo.m3u8
+#EXTINF:-1 tvg-id="NESN.US" tvg-name="NESN" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn.webp" group-title="Live TV - US",NESN
+https://ireentvsportspremium.pages.dev/NESN.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.US" tvg-name="NFL Network" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nfl-network.webp" group-title="Live TV - US",NFL Network
 https://ireentvsportspremium.pages.dev/NFL_Network.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.US" tvg-name="NHL Network" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-network.webp" group-title="Live TV - US",NHL Network
 https://ireentvsportspremium.pages.dev/NHL_Network.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.US" tvg-name="National Geographic" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/national-geographic.webp" group-title="Live TV - US",National Geographic
 https://ireentvsportspremium.pages.dev/National_Geographic.m3u8
+#EXTINF:-1 tvg-id="NewYorkMets.US" tvg-name="New York Mets" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/new-york-mets.webp" group-title="Live TV - US",New York Mets
+https://ireentvsportspremium.pages.dev/New_York_Mets.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTV.US" tvg-name="Nickelodeon TV" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nickelodeon-tv.webp" group-title="Live TV - US",Nickelodeon TV
 https://ireentvsportspremium.pages.dev/Nickelodeon_TV.m3u8
+#EXTINF:-1 tvg-id="PhiladelphiaPhillies.US" tvg-name="Philadelphia Phillies" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/philadelphia-phillies.webp" group-title="Live TV - US",Philadelphia Phillies
+https://ireentvsportspremium.pages.dev/Philadelphia_Phillies.m3u8
+#EXTINF:-1 tvg-id="PittsburghPirates.US" tvg-name="Pittsburgh Pirates" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/pittsburgh-pirates.webp" group-title="Live TV - US",Pittsburgh Pirates
+https://ireentvsportspremium.pages.dev/Pittsburgh_Pirates.m3u8
 #EXTINF:-1 tvg-id="PremierSports1.GB" tvg-name="Premier Sports 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.webp" group-title="Live TV - GB",Premier Sports 1
 https://ireentvsportspremium.pages.dev/Premier_Sports_1.m3u8
-#EXTINF:-1 tvg-id="PremierSports2.GB" tvg-name="Premier Sports 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.webp" group-title="Live TV - GB",Premier Sports 2
-https://ireentvsportspremium.pages.dev/Premier_Sports_2.m3u8
-#EXTINF:-1 tvg-id="PrimaSport1.RO" tvg-name="Prima Sport 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-1.webp" group-title="Live TV - RO",Prima Sport 1
-https://ireentvsportspremium.pages.dev/Prima_Sport_1.m3u8
-#EXTINF:-1 tvg-id="RMCSport1.FR" tvg-name="RMC Sport 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/rmc-sport-1.webp" group-title="Live TV - FR",RMC Sport 1
-https://ireentvsportspremium.pages.dev/RMC_Sport_1.m3u8
 #EXTINF:-1 tvg-id="SECNetwork.US" tvg-name="SEC Network" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sec-network.webp" group-title="Live TV - US",SEC Network
 https://ireentvsportspremium.pages.dev/SEC_Network.m3u8
 #EXTINF:-1 tvg-id="SIC.PT" tvg-name="SIC" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sic.webp" group-title="Live TV - PT",SIC
 https://ireentvsportspremium.pages.dev/SIC.m3u8
+#EXTINF:-1 tvg-id="SeattleMariners.US" tvg-name="Seattle Mariners" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/seattle-mariners.webp" group-title="Live TV - US",Seattle Mariners
+https://ireentvsportspremium.pages.dev/Seattle_Mariners.m3u8
 #EXTINF:-1 tvg-id="Showtime.US" tvg-name="Showtime" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/showtime.webp" group-title="Live TV - US",Showtime
 https://ireentvsportspremium.pages.dev/Showtime.m3u8
-#EXTINF:-1 tvg-id="SkySport2.DE" tvg-name="Sky Sport 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-2.webp" group-title="Live TV - DE",Sky Sport 2
-https://ireentvsportspremium.pages.dev/Sky_Sport_2.m3u8
-#EXTINF:-1 tvg-id="SkySport2.AT" tvg-name="Sky Sport 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-2.webp" group-title="Live TV - AT",Sky Sport 2
-https://ireentvsportspremium.pages.dev/Sky_Sport_2.m3u8
-#EXTINF:-1 tvg-id="SkySport2.NZ" tvg-name="Sky Sport 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.webp" group-title="Live TV - NZ",Sky Sport 2
-https://ireentvsportspremium.pages.dev/Sky_Sport_2.m3u8
-#EXTINF:-1 tvg-id="SkySport4.NZ" tvg-name="Sky Sport 4" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.webp" group-title="Live TV - NZ",Sky Sport 4
-https://ireentvsportspremium.pages.dev/Sky_Sport_4.m3u8
-#EXTINF:-1 tvg-id="SkySport9.AT" tvg-name="Sky Sport 9" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-9.webp" group-title="Live TV - AT",Sky Sport 9
-https://ireentvsportspremium.pages.dev/Sky_Sport_9.m3u8
+#EXTINF:-1 tvg-id="SkySport1.NZ" tvg-name="Sky Sport 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.webp" group-title="Live TV - NZ",Sky Sport 1
+https://ireentvsportspremium.pages.dev/Sky_Sport_1.m3u8
 #EXTINF:-1 tvg-id="SkySportBundesliga1.DE" tvg-name="Sky Sport Bundesliga 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-1.webp" group-title="Live TV - DE",Sky Sport Bundesliga 1
 https://ireentvsportspremium.pages.dev/Sky_Sport_Bundesliga_1.m3u8
-#EXTINF:-1 tvg-id="SkySportPremierLeague.DE" tvg-name="Sky Sport Premier League" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp" group-title="Live TV - DE",Sky Sport Premier League
-https://ireentvsportspremium.pages.dev/Sky_Sport_Premier_League.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga5.DE" tvg-name="Sky Sport Bundesliga 5" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-5.webp" group-title="Live TV - DE",Sky Sport Bundesliga 5
+https://ireentvsportspremium.pages.dev/Sky_Sport_Bundesliga_5.m3u8
 #EXTINF:-1 tvg-id="SkySportTennis.DE" tvg-name="Sky Sport Tennis" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-tennis.webp" group-title="Live TV - DE",Sky Sport Tennis
 https://ireentvsportspremium.pages.dev/Sky_Sport_Tennis.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.GB" tvg-name="Sky Sports Action" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-action.webp" group-title="Live TV - GB",Sky Sports Action
+https://ireentvsportspremium.pages.dev/Sky_Sports_Action.m3u8
 #EXTINF:-1 tvg-id="SkySportsArena.GB" tvg-name="Sky Sports Arena" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-arena.webp" group-title="Live TV - GB",Sky Sports Arena
 https://ireentvsportspremium.pages.dev/Sky_Sports_Arena.m3u8
 #EXTINF:-1 tvg-id="SkySportsCricket.GB" tvg-name="Sky Sports Cricket" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-cricket.webp" group-title="Live TV - GB",Sky Sports Cricket
@@ -193,8 +201,6 @@ https://ireentvsportspremium.pages.dev/Sky_Sports_Cricket.m3u8
 https://ireentvsportspremium.pages.dev/Sky_Sports_F1.m3u8
 #EXTINF:-1 tvg-id="SkySportsFootball.GB" tvg-name="Sky Sports Football" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-football.webp" group-title="Live TV - GB",Sky Sports Football
 https://ireentvsportspremium.pages.dev/Sky_Sports_Football.m3u8
-#EXTINF:-1 tvg-id="SkySportsGolf.GB" tvg-name="Sky Sports Golf" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-golf.webp" group-title="Live TV - GB",Sky Sports Golf
-https://ireentvsportspremium.pages.dev/Sky_Sports_Golf.m3u8
 #EXTINF:-1 tvg-id="SkySportsMainEvent.GB" tvg-name="Sky Sports Main Event" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event.webp" group-title="Live TV - GB",Sky Sports Main Event
 https://ireentvsportspremium.pages.dev/Sky_Sports_Main_Event.m3u8
 #EXTINF:-1 tvg-id="SkySportsMix.GB" tvg-name="Sky Sports Mix" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-mix.webp" group-title="Live TV - GB",Sky Sports Mix
@@ -203,10 +209,8 @@ https://ireentvsportspremium.pages.dev/Sky_Sports_Mix.m3u8
 https://ireentvsportspremium.pages.dev/Sky_Sports_Premier_League.m3u8
 #EXTINF:-1 tvg-id="SkySportsRacing.GB" tvg-name="Sky Sports Racing" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-racing.webp" group-title="Live TV - GB",Sky Sports Racing
 https://ireentvsportspremium.pages.dev/Sky_Sports_Racing.m3u8
-#EXTINF:-1 tvg-id="SkySportsTennis.GB" tvg-name="Sky Sports Tennis" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-tennis.webp" group-title="Live TV - GB",Sky Sports Tennis
-https://ireentvsportspremium.pages.dev/Sky_Sports_Tennis.m3u8
-#EXTINF:-1 tvg-id="SportTV1.PT" tvg-name="Sport TV 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1.webp" group-title="Live TV - PT",Sport TV 1
-https://ireentvsportspremium.pages.dev/Sport_TV_1.m3u8
+#EXTINF:-1 tvg-id="SpaceCityHomeNetwork.US" tvg-name="Space City Home Network" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/space-city-home-network.webp" group-title="Live TV - US",Space City Home Network
+https://ireentvsportspremium.pages.dev/Space_City_Home_Network.m3u8
 #EXTINF:-1 tvg-id="SportsNetNewYork.US" tvg-name="SportsNet New York" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-new-york.webp" group-title="Live TV - US",SportsNet New York
 https://ireentvsportspremium.pages.dev/SportsNet_New_York.m3u8
 #EXTINF:-1 tvg-id="Sportsnet360.CA" tvg-name="Sportsnet 360" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-360.webp" group-title="Live TV - CA",Sportsnet 360
@@ -221,8 +225,6 @@ https://ireentvsportspremium.pages.dev/Sportsnet_Ontario.m3u8
 https://ireentvsportspremium.pages.dev/Sportsnet_West.m3u8
 #EXTINF:-1 tvg-id="SportsnetWorld.CA" tvg-name="Sportsnet World" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-world.webp" group-title="Live TV - CA",Sportsnet World
 https://ireentvsportspremium.pages.dev/Sportsnet_World.m3u8
-#EXTINF:-1 tvg-id="StarzplaySports1.AE" tvg-name="Starzplay Sports 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/ae/starzplay-sports-1.webp" group-title="Live TV - AE",Starzplay Sports 1
-https://ireentvsportspremium.pages.dev/Starzplay_Sports_1.m3u8
 #EXTINF:-1 tvg-id="TBS.US" tvg-name="TBS" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/tbs.webp" group-title="Live TV - US",TBS
 https://ireentvsportspremium.pages.dev/TBS.m3u8
 #EXTINF:-1 tvg-id="TLC.US" tvg-name="TLC" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/tlc.webp" group-title="Live TV - US",TLC
@@ -231,15 +233,11 @@ https://ireentvsportspremium.pages.dev/TLC.m3u8
 https://ireentvsportspremium.pages.dev/TNT.m3u8
 #EXTINF:-1 tvg-id="TNT.BR" tvg-name="TNT" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/tnt.webp" group-title="Live TV - BR",TNT
 https://ireentvsportspremium.pages.dev/TNT.m3u8
+#EXTINF:-1 tvg-id="TNTSports.CL" tvg-name="TNT Sports" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cl/tnt-sports.webp" group-title="Live TV - CL",TNT Sports
+https://ireentvsportspremium.pages.dev/TNT_Sports.m3u8
 #EXTINF:-1 tvg-id="TNTSports1.GB" tvg-name="TNT Sports 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1.webp" group-title="Live TV - GB",TNT Sports 1
 https://ireentvsportspremium.pages.dev/TNT_Sports_1.m3u8
 #EXTINF:-1 tvg-id="TNTSports2.GB" tvg-name="TNT Sports 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2.webp" group-title="Live TV - GB",TNT Sports 2
 https://ireentvsportspremium.pages.dev/TNT_Sports_2.m3u8
 #EXTINF:-1 tvg-id="TNTSports3.GB" tvg-name="TNT Sports 3" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-3.webp" group-title="Live TV - GB",TNT Sports 3
 https://ireentvsportspremium.pages.dev/TNT_Sports_3.m3u8
-#EXTINF:-1 tvg-id="TSN1.CA" tvg-name="TSN 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-1.webp" group-title="Live TV - CA",TSN 1
-https://ireentvsportspremium.pages.dev/TSN_1.m3u8
-#EXTINF:-1 tvg-id="TSN2.CA" tvg-name="TSN 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-2.webp" group-title="Live TV - CA",TSN 2
-https://ireentvsportspremium.pages.dev/TSN_2.m3u8
-#EXTINF:-1 tvg-id="TSN3.CA" tvg-name="TSN 3" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-3.webp" group-title="Live TV - CA",TSN 3
-https://ireentvsportspremium.pages.dev/TSN_3.m3u8
